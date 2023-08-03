@@ -1,0 +1,6 @@
+ID;productName;productDescription;price;warehouse_ID;discount_ID
+a14dc87c-6768-4063-8d32-709357883868;Acoustic Guitar;High quality wood, perfect for all music styles;500.00;3a66c151-ef6d-45cd-9c75-764df43ddc9c;c20411dd-620c-4301-8f5e-70525466d87f
+575c1863-7c33-410b-beae-e46d92cc4fab;Electric Guitar;Easy to handle, perfect for beginners;400.00;0fb97a97-6f3e-49e7-bda6-507730587ff4;91cf99ec-d690-4af0-8d7f-52685eb1628a
+c8eeafa8-90e5-4383-8835-d3dd88d23bce;Bass Guitar;Deep and rich sound, perfect for professionals;600.00;4af30ee4-d17f-4dc1-8104-01cbf4ebf290;981431e1-be21-4ddc-8f56-7a16b87b812a
+2c222ea9-1fb9-4902-9a38-f2bcd1540ebd;Ukulele;Small and lightweight, perfect for recording;200.00;300148df-ba7b-41d5-b458-3f8fc45ff325;683bbe5b-c666-498d-9880-a28ea3f2227b
+4851ca8e-daa9-4423-98a1-020fd238cc04;Drum Set;Durable and reliable, perfect for concerts;800.00;1fb503ae-a3e3-49ad-a16a-f69baa1d59e9;898f3b30-aebd-4092-a3d5-b405e523d2a6
